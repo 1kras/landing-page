@@ -237,6 +237,18 @@ transition: all .5s ease;}
   margin: 0;
 }
 
+.hero-img img{
+  width: 100%; 
+  transition: none; 
+}
+
+.hero-img img:hover {
+  width: 100%; 
+  opacity: 1; 
+}
+
+
+
 .hero {
   height: 100%;
   gap: 1rem;
