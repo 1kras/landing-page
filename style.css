@@ -54,11 +54,11 @@ background-color: transparent;
   display: none; /*esto se pone en none solo para que se vea cuando la pagina este colapsada en forma horizontal*/
 
 #menu-toggle{
-  display: none; /*no quiero que se vea nunca*/
+  display:none; /*no quiero que se vea nunca*/
 }
 
 .menu-icon-action{
-  display: block; /*no se pueda hacer click nunca*/
+  display: none; /*no se pueda hacer click nunca*/
 }
 
 #menu-icon {
